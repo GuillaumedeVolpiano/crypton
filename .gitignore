@@ -13,3 +13,4 @@ benchs/Hash
 .cabal-sandbox/
 cabal.sandbox.config
 stack.yaml.lock
+dist-newstyle/
